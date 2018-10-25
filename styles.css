@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Mali', cursive;
+    color:blue;
+}
+body{
+    background-color:pink;
+}
+img{
+    width:250px;
+    border:solid 5px;
+    border-color: red;
+}
